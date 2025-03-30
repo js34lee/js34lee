@@ -1,5 +1,14 @@
-# 💫 About Me:
- 🛠️ Currently working on developing an RDBMS Data Generator.<br>🧑‍💼Working as a SQL Developer & Programmer since 2019.<br>📚 Studying SQL performance optimization and best programming practices.
+# 👋 Hi, I'm [Joseph]  
+💻 **SQL Developer | Software Engineer **  
+🔹 Specializing in **SQL performance optimization, Building automation tools to solve workplace inefficiencies and eliminate manual work.**  
+
+## 🚀 Featured Projects  
+📌 [**Standalone Data Generation Tool**](https://github.com/yourrepo) - Generate realistic test data for RDBMS  
+<!--  [**SQL Query Optimizer Helper**](https://github.com/yourrepo) - Analyze and improve SQL performance  -->
+<!-- [**Power BI Dashboard Template**](https://github.com/yourrepo) - Customizable templates for business analytics -->  
+
+## 📬 Connect with Me  
+📧 [Email Me](mailto:lsw7tt@gmail.com) ])  
 
 <!--
 ## 🌐 Socials:
