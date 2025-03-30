@@ -1,6 +1,5 @@
-#   Hi, I'm Joseph  
-  SQL Developer & Software Engineer <br>
-  Specializing in **SQL performance optimization, Building automation tools to solve workplace inefficiencies and eliminate manual work.**  
+#   Hi, I'm Joseph <br>
+  Specializing in SQL performance optimization and automation to streamline work.
 
 ## Featured Projects  
 📌 [**Standalone Data Generation Tool**](https://github.com/yourrepo) - Generate realistic test data for RDBMS  
@@ -8,7 +7,7 @@
 <!-- [**Power BI Dashboard Template**](https://github.com/yourrepo) - Customizable templates for business analytics -->  
 
 ## Connect with Me  
- [Email Me](mailto:lsw7tt@gmail.com) 
+ 📧 [Email Me](mailto:lsw7tt@gmail.com) 
 
 <!--
 ## 🌐 Socials:
