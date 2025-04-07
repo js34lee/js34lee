@@ -3,7 +3,7 @@
 Specializing in SQL performance optimization and developing automation tools to streamline work.
 
 ## Featured Projects  
-📌 [**Standalone Data Generation Tool**](https://github.com/yourrepo) - Generate realistic test data for RDBMS  
+📌 [**Standalone Data Generation Tool**]([https://github.com/js34lee/Datagen]) - Generate realistic test data for RDBMS  
 <!-- [**SQL Query Optimizer Helper**](https://github.com/yourrepo) - Analyze and improve SQL performance -->  
 <!-- [**Power BI Dashboard Template**](https://github.com/yourrepo) - Customizable templates for business analytics -->  
 
